@@ -1,0 +1,38 @@
+.menu{
+    
+    background-color:#000000;
+    padding: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+}
+body{
+    margin: 0px;
+    
+    background-color:teal;
+    
+}
+
+.grid{
+   
+    margin: 40px;
+    font-family: sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+
+.origami {
+    background-color:white;
+    border :solid black;
+    padding: 100px;
+    margin: 0px;
+    width:310px;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+
+h3,p{
+    text-align: center;
+}
